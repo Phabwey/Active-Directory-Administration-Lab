@@ -120,15 +120,28 @@ Active-Directory-Administration-Lab/
 
 ### Active Directory Users and Computers – Overview
 
+<img width="800" height="580" alt="Active Directory Users and Computers" src="https://github.com/user-attachments/assets/7fba6586-6dcf-4e8c-8e63-19a4b7f7a41c" />
+
+
 ### Created Users in Active Directory
+
+<img width="828" height="621" alt="Created Users in Active Directory" src="https://github.com/user-attachments/assets/a574bb8e-c97b-4917-afaa-2547a3227373" />
 
 ### User Properties – Paballo Litabe
 
+<img width="828" height="574" alt="User Properties" src="https://github.com/user-attachments/assets/c665a4d9-99da-442f-b03b-3d1e51b3e334" />
+
 ### User Account Enabled/Disabled
+
+<img width="774" height="560" alt="User Account Enabled:Disabled" src="https://github.com/user-attachments/assets/cba3352f-ab97-4048-9e86-51cc7853d40f" />
 
 ### Reset User Password
 
+<img width="736" height="615" alt="Reset User Password " src="https://github.com/user-attachments/assets/fa99057c-9d8e-49f1-8c77-0b5ad3ec56eb" />
+
 ### Group Memberships
+
+<img width="828" height="627" alt="Group Membership " src="https://github.com/user-attachments/assets/9b1e45b9-cc77-42c6-a6a5-44341168fc38" />
 
 ---
 
