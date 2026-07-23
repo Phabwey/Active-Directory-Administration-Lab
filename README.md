@@ -15,6 +15,9 @@ The lab focuses on essential system administration tasks commonly performed by I
 
 The following diagram illustrates the enterprise network used throughout this lab. It shows the Domain Controller, DNS Server, DHCP Server, Firewall, Core Switch, departmental workstations, and IP addressing used to simulate a real-world Windows Server environment.
 
+<img width="1536" height="1024" alt="43B48942-1048-4BE4-86C3-6643467AD8B9" src="https://github.com/user-attachments/assets/ecc0ac45-8fd0-421f-9b20-595cc1f31e71" />
+
+
 ___
 
 ## Objectives
