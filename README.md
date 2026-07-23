@@ -38,7 +38,7 @@ The lab focuses on essential system administration tasks commonly performed by I
 
 ---
 
-## Lab Structure
+## 📂 Project Structure
 
 ```text
 Active-Directory-Administration-Lab/
@@ -46,16 +46,22 @@ Active-Directory-Administration-Lab/
 ├── README.md
 ├── docs/
 │   ├── Lab-Overview.md
-│   ├── User-and-Group-Management.md
-│   ├── Password-Policy.md
-│   ├── Group-Policy.md
+│   ├── Active-Directory-Setup.md
+│   ├── User-Management.md
+│   ├── Account-Administration.md
+│   ├── Group-Management.md
 │   └── Troubleshooting.md
+│
 ├── screenshots/
-│   ├── users.png
-│   ├── groups.png
-│   └── policies.png
+│   ├── aduc-overview.png
+│   ├── created-users.png
+│   ├── user-properties-paballo-litabe.png
+│   ├── account-enabled-disabled.png
+│   ├── reset-password.png
+│   └── group-memberships.png
+│
 └── diagrams/
-    └── ad-network-diagram.png
+    └── active-directory-lab-topology.png
 ```
 
 ---
@@ -110,15 +116,19 @@ Active-Directory-Administration-Lab/
 
 ---
 
-## Screenshots
+## 📸 Screenshots
 
-Add screenshots of:
+### Active Directory Users and Computers – Overview
 
-* Active Directory Users and Computers
-* Organizational Units
-* Security Groups
-* Group Policy Management Console
-* User account configuration
+### Created Users in Active Directory
+
+### User Properties – Paballo Litabe
+
+### User Account Enabled/Disabled
+
+### Reset User Password
+
+### Group Memberships
 
 ---
 
