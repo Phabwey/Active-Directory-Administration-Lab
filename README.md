@@ -11,6 +11,11 @@ The Active Directory Administration Lab is a home-lab project designed to simula
 The lab focuses on essential system administration tasks commonly performed by IT Support Specialists and Junior System Administrators.
 
 ---
+## Active Directory Network Topology
+
+The following diagram illustrates the enterprise network used throughout this lab. It shows the Domain Controller, DNS Server, DHCP Server, Firewall, Core Switch, departmental workstations, and IP addressing used to simulate a real-world Windows Server environment.
+
+___
 
 ## Objectives
 
